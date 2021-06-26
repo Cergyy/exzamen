@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\ekzBast\ekzBast\obj\Debug\ekzBast.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ekzBast\ekzBast\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\ekzBast\ekzBast\obj\Debug\App.g.cs
+C:\Users\User\source\repos\ekzBast\ekzBast\obj\Debug\ekzBast_MarkupCompile.cache
+C:\Users\User\source\repos\ekzBast\ekzBast\obj\Debug\ekzBast_MarkupCompile.lref
